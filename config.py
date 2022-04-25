@@ -1,0 +1,7 @@
+ACCESS_KEY_ID = 'FIXME'
+ACCESS_SECRET_KEY = 'FIXME'
+BUCKET = 'FIXME'  # name of the bucket
+PG_USERNAME = 'postgres'
+PG_PASSWORD = 'postgres'
+SNS_TOPIC_ARN = 'FIXME'
+SQS_URL = 'FIXME'
